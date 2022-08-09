@@ -104,7 +104,7 @@ This privacy policy page was created at privacypolicytemplate.net and modified/g
 
 
 # Return and Refund Policy  
-========================
+
 
 Last updated: August 09, 2022
 
@@ -119,7 +119,7 @@ The following terms are applicable for any products that You purchased with
 Us.
 
 Interpretation and Definitions  
-==============================
+
 
 Interpretation  
 --------------
@@ -151,7 +151,7 @@ For the purposes of this Return and Refund Policy:
 
 
 Your Order Cancellation Rights  
-==============================
+
 
 You are entitled to cancel Your Order within 45 days without giving any reason
 for doing so.
@@ -170,7 +170,7 @@ the returned Goods. We will use the same means of payment as You used for the
 Order, and You will not incur any fees for such reimbursement.
 
 Conditions for Returns  
-======================
+
 
 In order for the Goods to be eligible for a return, please make sure that:
 
@@ -194,7 +194,7 @@ be refunded. This exclusion may not apply to You if it is not permitted by
 applicable law.
 
 Returning Goods  
-===============
+
 
 You are responsible for the cost and risk of returning the Goods to Us. You
 should send the Goods at the following address:
@@ -207,7 +207,7 @@ to issue a refund without actual receipt of the Goods or proof of received
 return delivery.
 
 Gifts  
-=====
+
 
 If the Goods were marked as a gift when purchased and then shipped directly to
 you, You'll receive a gift credit for the value of your return. Once the
